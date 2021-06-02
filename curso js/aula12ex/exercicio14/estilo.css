@@ -1,0 +1,33 @@
+body{
+    
+    font: normal 15pt arial;
+}
+header{
+    color: #fff;
+    text-align: center;
+
+}
+section{
+    background:#fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0.363);
+}
+section img {
+    width: 250px;
+    border-radius: 53%;
+    height: 250px;
+}
+section div{
+    margin:auto;
+    text-align: center;
+}
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+
+
+}
